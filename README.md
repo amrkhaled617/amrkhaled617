@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🔭 I’m currently working on **a Database Engine using java**
+- 🔭 I’m currently working on getting **IBM Full Stack Development Certificate**
 
 - 🌱 I’m currently learning **Django**
 
