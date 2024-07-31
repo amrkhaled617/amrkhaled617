@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amrkhaled54321@outlook.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1brhLdfbq7MACk7o0UzXwM9ULbx2xhhZf/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1alE2_t8XqOSgMjoPHRXCCnw6mU2e7ZV2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
