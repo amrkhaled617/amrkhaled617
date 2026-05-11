@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on getting **IBM Full Stack Development Certificate**
+- 🔭 I’m currently working on getting 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **amrkhaled54321@outlook.com**
 
